@@ -36,11 +36,11 @@
   "index": 0,
   "deposit_data": {
     "amount": 32000000000,
-    "timestamp": 1553421006097,
+    "timestamp": 0,
     "deposit_input": {
-      "pubkey": "b061479eb616f94d6bceacf4175d76437ad8676d539b0ec883fbcb2ba77b10dcf6fdfea145cfc39b548bcfa114b8a7b0",
+      "pubkey": "b16a30accd254d9480e39e23e4b4be34d6e012acb12700b6f2b04b950ebbcd2f2a97cc46e0dbe2c0ae9e7c84020e715d",
       "withdrawal_credentials": "8200000000000000000000000000000000000000000000000000000000000000",
-      "proof_of_possession": "a16904dfd9d7fd70338962fc3a6afccf7c99189d2612577f7d5cfb8c97cd4f84eca3b96db06de4f03f46038965fa8062095b4e11e54894329cf7305c0bd2d63a51bf7c16370c422bbb894d252a4b0deb43e3ef46d92a2acfd51ee3a1a29fa63c"
+      "proof_of_possession": "a9fc4899c9f15518984ed7a688dd75bf63008e97a32a7c4dbed2a16f5a1216345586bec73e7b42b8a5b9a26f073e77bd0fd8c08e3cecd0303c9e4a3929eae1d4af56deaa9d5a2fdbcea565bf6c6241d6f28a991b6c5341a9eb327a3ee36ca373"
     }
   }
 }

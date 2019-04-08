@@ -1,12 +1,13 @@
 {
-  "networkId": 1000000,
-  "genesisRoot": "C29F6E643F48E8F1F191F2BD3D9DAA49DADA37B48362B3FD17290CFE4A6AB3A1",
+  "networkId": 1000001,
+  "networkGeneration": 0,
+  "genesisRoot": "660C2032C5C877921205918EFF50E2425768741D75C73523AD03114376234846",
   "bootstrapNodes": [
     "enode://e7b5e57da97b753bcb8a3dbb46f66e7b8ef53bcc700451a5835406cbe758be6377f02e9bffbc65f870842f5cbac6ada45d41c610341ee0bcb122f77601f2d806@188.166.38.238:9000"
   ],
-  "numShards": 8,
+  "numShards": 16,
   "slotDuration": 30,
-  "slotsPerEpoch": 8,
-  "totalValidators": 400,
-  "lastUserValidator": 49
+  "slotsPerEpoch": 16,
+  "totalValidators": 1000,
+  "lastUserValidator": 199
 }
