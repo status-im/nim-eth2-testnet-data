@@ -1,7 +1,7 @@
 {
   "networkId": 20,
   "networkGeneration": 1,
-  "genesisRoot": "0703C30AEF3033234515F54D8937254360792B75FB13D4F5681E3904B365A898",
+  "genesisRoot": "6D8C225E1770B67CCDEDCEE8357BA0B2F7E451D0768288FE764F62C0C3DD026D",
   "bootstrapNodes": [
     {
       "peer": "12D3KooWQmdmkcSdRaeLy8dMf9mCMeakJtxgHfX5qGAfqmvu7wTX",
