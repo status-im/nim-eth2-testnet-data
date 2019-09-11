@@ -1,18 +1,18 @@
 {
   "networkId": 20,
   "networkGeneration": 2,
-  "genesisRoot": "99A22BDBE2DB1E06331ABAE59E2DA7EE3B9F7492686855811A4AB66A65502460",
+  "genesisRoot": "1e47559581790ce6eefc3ef83d19f853765d85c5157f3f88cf2bc664d96ec923",
   "bootstrapNodes": [
     {
-      "peer": "12D3KooWQmdmkcSdRaeLy8dMf9mCMeakJtxgHfX5qGAfqmvu7wTX",
+      "peer": "16Uiu2HAmEAmp4FdpPzypKwTMmsbCdnUafDvXZCpFrUDbYJZNk7hX",
       "addresses": [
-        "/ip4/188.166.38.238/tcp/9100"
+        "/ip4/178.128.140.61/tcp/9100"
       ]
     }
   ],
-  "numShards": 16,
-  "slotDuration": 30,
-  "slotsPerEpoch": 16,
+  "numShards": 8,
+  "slotDuration": 6,
+  "slotsPerEpoch": 8,
   "totalValidators": 1000,
   "lastUserValidator": 199
 }
